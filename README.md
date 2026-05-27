@@ -1,3 +1,3 @@
 Hello!
 
-This is an fake AI. This is an Rickroll Webpage.
+This is NOT an AI. This is an Rickroll Webpage.
